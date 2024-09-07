@@ -95,6 +95,11 @@ section button:hover {
     /* Adiciona uma sombra mais intensa */
 }
 
+.alerta-nulo {
+    color: #ffffff;
+    /* Muda a cor do texto */
+}
+
 /* Estiliza a caixa de resultados da pesquisa */
 .resultados-pesquisa {
     width: 60rem;

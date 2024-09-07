@@ -1,4 +1,4 @@
-### **Pokémon! ... no seu navegador! - Imersão Dev com Google Gemini** 
+### **Pokémon Online - Imersão Dev com Google Gemini** 
 
 **O que faz essa função JavaScript?**
 
@@ -28,6 +28,9 @@ Sinta-se à vontade para explorar o código e fazer suas próprias modificaçõe
     * **Filtros:** Adicionar filtros para encontrar Pokémons com características específicas (por exemplo, Pokémons lendários).
     * **Gráficos:** Criar gráficos para visualizar dados sobre os Pokémons.
 
-**E aí, gostou?** Se tiver alguma dúvida ou sugestão, é só abrir uma issue! 
+E aí, gostou? Se tiver alguma dúvida ou sugestão, é só abrir uma issue! 
+
+**Experimente a Pokédex agora!**
+<a href="https://pokemon-github.vercel.app/" target="_blank">Acessar a Pokédex</a>
 
 **#Pokémon #JavaScript #DesenvolvimentoWeb #Pokédex**
